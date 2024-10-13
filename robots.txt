@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://yaqunewavai.pages.dev/sitemap.xml
